@@ -23,21 +23,15 @@
 
 Stack
 
- Back-end
-  Nodejs
-  SQL
+ Back-end : Nodejs, SQL  
 
- Front-end
-  Android(Java)
-  iOS(Swift)
+ Front-end : Android(Java), iOS(Swift)
 
- Infra
-  AWS EC2
-  AWS RDS
+ Infra : AWS EC2, AWS RDS
+  
+ DevOps : Firebase
 
- DevOps
-  Firebase
+ Other : Bluetooth GATT
+ 
 
- Other
-  Bluetooth GATT
  
