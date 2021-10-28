@@ -20,7 +20,29 @@
     Naver Cloud Platform
     Google Maps API (APP)
     
-    
+
+Stack
+
+ Back-end
+  Nodejs
+  SQL
+  
+ Front-end
+  Android(Java)
+  iOS(Swift)
+  
+ Infra
+  AWS EC2
+  AWS RDS
+  
+ DevOps
+  Firebase
+  
+ Other
+  Bluetooth GATT
+  
+  
+
 
     
  
