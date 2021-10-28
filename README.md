@@ -20,13 +20,24 @@
     Naver Cloud Platform
     Google Maps API (APP)
     
-    
 
-    
- 
- 
+Stack
 
-<!---
-Makkiato/Makkiato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Back-end
+  Nodejs
+  SQL
+
+ Front-end
+  Android(Java)
+  iOS(Swift)
+
+ Infra
+  AWS EC2
+  AWS RDS
+
+ DevOps
+  Firebase
+
+ Other
+  Bluetooth GATT
+ 
