@@ -10,7 +10,7 @@
     Google Maps API (Web)   
         
  주식회사 노크톡(2021.02\~2021.10)
-    스마트키 키프리카 
+    스마트키 키프리카 https://github.com/knocktalkDev
     Nodejs[expressjs] CRUD + RDBMS(MariaDB) on AWS
     SocketIO
     MQTT
