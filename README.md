@@ -31,7 +31,7 @@
 |2021|학위|한양대학교 컴퓨터소프트웨어학부 학사||
 |2021.02<br>~<br>2021.10|경력|주식회사 노크톡<br>연구개발부서 담당자<br>[GitHub](https://github.com/knocktalkDev)|<h3>장치와의 블루투스 연결 및 초기설정 자동,간소화</h3>Android, iOS 네이티브 API 활용과 Bluetooth GATT 스택<br><br><h3>모바일 클라이언트 개발 및 유지보수</h3>메세지 중개 서버에 대한 안드로이드, iOS 클라이언트.<br>Google Firebase Analytics, Crashlytics<br>[안드로이드 리팩토링 Github](https://github.com/Makkiato/KeyfreecarAPI)<br><br><h3>서버 구축, 운영 및 유지보수</h3>사제 원격시동 장치의 메세지 중개 서버(AWS EC2 Nodejs(Express), Websocket, MQTT) 및 사용기록 DB(AWS RDS MariaDB) 개발,운영,보수|
 |2021| 교육 |원티드-위코드 프리온보딩 백엔드 과정|[Team Organization](https://github.com/Another-Glass)|
-|2022.01<br>~<br>NOW| 경력 |라온시큐어 기술지원팀||
+|2022.01<br>~<br>NOW| 경력 |라온시큐어 보안기술2팀||
 
 
                     
